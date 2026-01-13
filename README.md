@@ -1,8 +1,9 @@
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubham56277&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Profile Views](https://komarev.com/ghpvc/?username=Shubham56277&color=blue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham56277&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Followers](https://img.shields.io/github/followers/Shubham56277?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/Shubham56277?label=Stars&style=social)
 
 
 
