@@ -1,3 +1,38 @@
+<h1 align="center">Hey 👋, I'm Shubham Mankar</h1>
+<h3 align="center">First-Year BTech Computer Engineering Student</h3>
+
+---
+
+## 🚀 About Me
+- 🎓 BTech Computer Engineering (First Year)
+- 🐧 Linux & Bash Scripting Enthusiast
+- 💻 Comfortable with C Programming
+- 🌱 Currently learning Python
+- 🔍 Exploring Open Source & Internships
+- 📫 Ask me about Linux basics, Bash scripting, and C
+
+---
+
+## 🛠️ Tech Stack
+
+**Programming Languages:**  
+C · Python · Bash  
+
+**Operating System:**  
+Linux  
+
+**Tools & Platforms:**  
+Git · GitHub · VS Code · Terminal  
+
+---
+
+## 🔥 Projects
+- Linux ATM Management System  
+- Python CLI Calculator  
+- Student Management System (C)  
+
+---
+
 ## 📊 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shubham56277&color=blue)
