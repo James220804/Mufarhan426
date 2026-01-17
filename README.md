@@ -34,7 +34,7 @@
 
 ## 🔥 Projects
 - Linux ATM Management System  
-- Python CLI Calculator  
+- Python Mini Projects
 - Student Management System (C)  
 
 ---
