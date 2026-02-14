@@ -34,7 +34,7 @@
 
 ## 🔥 Projects
 - Linux ATM Management System  
-- Python Mini Projects
+- Python Projects
 - Student Management System (C)  
 
 ---
