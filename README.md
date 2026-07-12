@@ -122,8 +122,18 @@ flowchart LR
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham56277&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight" alt="Shubham's most used public languages" />
 </p>
 
+## 📈 Advanced Productivity Insights
+
 <p align="center">
-  <img width="55%" src="https://streak-stats.demolab.com?user=Shubham56277&amp;theme=tokyonight&amp;hide_border=true" alt="Shubham's GitHub contribution streak" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubham56277&amp;theme=tokyonight" alt="Shubham's GitHub contribution overview" />
+</p>
+
+<p align="center">
+  <img width="63%" src="https://streak-stats.demolab.com?user=Shubham56277&amp;theme=tokyonight&amp;hide_border=true" alt="Shubham's total contributions, current streak, and longest streak" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shubham56277&amp;theme=tokyonight&amp;utcOffset=5.5" alt="Shubham's most productive contribution times" />
 </p>
 
 <p align="center">
