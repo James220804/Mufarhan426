@@ -1,14 +1,13 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:312e81,100:7c3aed&amp;height=190&amp;section=header&amp;text=Shubham%20Mankar&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20Engineer%20%E2%80%A2%20Generative%20AI%20Builder%20%E2%80%A2%20Computer%20Engineering%20Student&amp;descSize=16&amp;descAlignY=55" alt="Shubham Mankar — AI Engineer and Generative AI Builder" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:312e81,100:7c3aed&amp;height=175&amp;section=header&amp;text=Shubham%20Mankar&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38" alt="Shubham Mankar" />
 </p>
 
 <p align="center">
-  <strong>Building intelligent products at the intersection of AI, developer tooling, and cloud.</strong><br />
-  I turn ideas into working applications through rapid experimentation, thoughtful engineering, and continuous learning.
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=500&amp;size=19&amp;duration=2600&amp;pause=700&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=AI+Engineer+%E2%80%A2+Generative+AI+Builder;Building+AI+Agents+%26+Developer+Tools;Turning+Ideas+into+Working+Prototypes;Learning+Cloud+%26+DevOps+by+Building" alt="Animated introduction" />
 </p>
 
 <p align="center">
-  <img width="82%" src="./assets/ai-engineering-3d.png" alt="3D AI engineering ecosystem with neural core, cloud, code, database, and intelligent agents" />
+  I build intelligent applications at the intersection of AI, developer tooling, and cloud—combining rapid experimentation with continuous learning.
 </p>
 
 <p align="center">
@@ -148,11 +147,13 @@ flowchart LR
   <img width="52%" src="https://streak-stats.demolab.com?user=Shubham56277&amp;theme=tokyonight&amp;hide_border=true" alt="Shubham's total contributions, current streak, and longest streak" />
 </div>
 
-<br />
+### 🌌 3D Contribution Journey
 
 <div align="center">
-  <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham56277&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Shubham's GitHub contribution activity graph" />
+  <img width="88%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Shubham's 3D GitHub contribution calendar" />
 </div>
+
+<!-- The 3D contribution calendar is regenerated daily by GitHub Actions. -->
 
 <!-- GitHub statistics reflect public activity only; private repositories and contributions may not appear. -->
 
