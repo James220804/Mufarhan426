@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Shubham Mankar</h1>
-
-<h3 align="center">AI Engineer • Generative AI Builder • B.Tech Computer Engineering Student</h3>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:312e81,100:7c3aed&amp;height=190&amp;section=header&amp;text=Shubham%20Mankar&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20Engineer%20%E2%80%A2%20Generative%20AI%20Builder%20%E2%80%A2%20Computer%20Engineering%20Student&amp;descSize=16&amp;descAlignY=55" alt="Shubham Mankar — AI Engineer and Generative AI Builder" />
+</p>
 
 <p align="center">
-  I build AI-powered applications, agents, developer tools, and cloud-based prototypes—turning ideas into working software through rapid experimentation.
+  <strong>Building intelligent products at the intersection of AI, developer tooling, and cloud.</strong><br />
+  I turn ideas into working applications through rapid experimentation, thoughtful engineering, and continuous learning.
 </p>
 
 <p align="center">
@@ -14,7 +15,9 @@
   <a href="https://www.linkedin.com/in/shubham-mankar-a62949381"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-## About Me
+---
+
+## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Engineering student and aspiring AI engineer
 - 🧠 Interested in AI, Generative AI, Agentic AI, RAG, MCP, LLMs, and automation
@@ -26,7 +29,7 @@
 > [!NOTE]
 > I focus on learning by building real projects, experimenting with AI tools, and converting ideas into working prototypes.
 
-## What I Build
+## 🧩 What I Build
 
 | Area | What I explore |
 | :--- | :--- |
@@ -37,7 +40,9 @@
 | ⚙️ Automation systems | Repeatable workflows that reduce manual effort |
 | 🚀 Rapid prototypes | Proof-of-concept products built to test ideas quickly |
 
-## Technology Stack
+---
+
+## 🛠️ Technology Stack
 
 ### Languages
 
@@ -86,7 +91,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## Featured Projects
+---
+
+## 🚀 Featured Projects
 
 | Project | Description | Links |
 | :--- | :--- | :---: |
@@ -98,7 +105,9 @@
 | **Linux ATM Management System** | A terminal-based banking simulation built with Linux and foundational systems-programming concepts. | [Repository](https://github.com/Shubham56277/linux-atm-team-project) |
 | **Student Management System** | A beginner-friendly C project for managing student records and basic academic information. | [Repository](https://github.com/Shubham56277/Student-Management-System-C-Language-) |
 
-## How I Learn & Build
+---
+
+## 🔄 How I Learn & Build
 
 ```mermaid
 flowchart LR
@@ -111,41 +120,44 @@ flowchart LR
     G -.-> A
 ```
 
-## Current Focus
+## 🎯 Current Focus
 
 `Agentic AI` · `Generative AI` · `RAG` · `MCP` · `Multi-agent systems` · `AI coding assistants` · `AWS Bedrock` · `IBM watsonx.ai` · `IBM Granite` · `Cloud architecture` · `DevOps fundamentals` · `Open source`
 
-## GitHub Statistics
+---
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shubham56277&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight" alt="Shubham's GitHub statistics" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham56277&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight" alt="Shubham's most used public languages" />
-</p>
+## 📊 GitHub Activity & Insights
 
-## 📈 Advanced Productivity Insights
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubham56277&amp;theme=tokyonight" alt="Shubham's GitHub statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shubham56277&amp;theme=tokyonight&amp;utcOffset=5.5" alt="Shubham's productive contribution times" />
+</div>
 
-<p align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubham56277&amp;theme=tokyonight" alt="Shubham's GitHub contribution overview" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shubham56277&amp;theme=tokyonight" alt="Repositories by language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shubham56277&amp;theme=tokyonight" alt="Most-used languages by commits" />
+</div>
 
-<p align="center">
-  <img width="63%" src="https://streak-stats.demolab.com?user=Shubham56277&amp;theme=tokyonight&amp;hide_border=true" alt="Shubham's total contributions, current streak, and longest streak" />
-</p>
+<br />
 
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shubham56277&amp;theme=tokyonight&amp;utcOffset=5.5" alt="Shubham's most productive contribution times" />
-</p>
+<div align="center">
+  <img width="68%" src="https://streak-stats.demolab.com?user=Shubham56277&amp;theme=tokyonight&amp;hide_border=true" alt="Shubham's total contributions, current streak, and longest streak" />
+</div>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham56277&amp;theme=tokyo-night&amp;hide_border=true" alt="Shubham's GitHub contribution activity graph" />
-</p>
+<br />
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham56277&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Shubham's GitHub contribution activity graph" />
+</div>
 
 <!-- GitHub statistics reflect public activity only; private repositories and contributions may not appear. -->
 
 > [!TIP]
 > GitHub statistics are generated from public account activity and public repositories, so they may take time to update.
 
-## Learning Roadmap
+---
+
+## 🗺️ Learning Roadmap
 
 - [ ] Strengthen Python and backend development
 - [ ] Learn Docker and CI/CD
@@ -155,7 +167,9 @@ flowchart LR
 - [ ] Learn scalable AI system design
 - [ ] Explore Kubernetes after mastering Docker fundamentals
 
-## Connect With Me
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://shubhammankar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
@@ -166,4 +180,8 @@ flowchart LR
 
 <p align="center">
   ⭐ If you find my projects useful, consider starring the repositories and connecting with me.
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7c3aed,50:312e81,100:0f172a&amp;height=100&amp;section=footer" alt="Footer decoration" />
 </p>
