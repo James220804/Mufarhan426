@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <img width="82%" src="./assets/ai-engineering-3d.png" alt="3D AI engineering ecosystem with neural core, cloud, code, database, and intelligent agents" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Shubham56277"><img src="https://komarev.com/ghpvc/?username=Shubham56277&amp;label=Profile%20views&amp;color=7c3aed&amp;style=flat-square" alt="Profile views" /></a>
   <a href="https://github.com/Shubham56277?tab=followers"><img src="https://img.shields.io/github/followers/Shubham56277?label=Followers&amp;style=flat-square&amp;color=7c3aed" alt="GitHub followers" /></a>
   <a href="https://github.com/Shubham56277?tab=stars"><img src="https://img.shields.io/github/stars/Shubham56277?affiliations=OWNER&amp;style=flat-square&amp;color=7c3aed" alt="GitHub stars" /></a>
@@ -129,25 +133,25 @@ flowchart LR
 ## 📊 GitHub Activity & Insights
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubham56277&amp;theme=tokyonight" alt="Shubham's GitHub statistics" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shubham56277&amp;theme=tokyonight&amp;utcOffset=5.5" alt="Shubham's productive contribution times" />
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubham56277&amp;theme=tokyonight" alt="Shubham's GitHub statistics" />
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shubham56277&amp;theme=tokyonight&amp;utcOffset=5.5" alt="Shubham's productive contribution times" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shubham56277&amp;theme=tokyonight" alt="Repositories by language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shubham56277&amp;theme=tokyonight" alt="Most-used languages by commits" />
-</div>
-
-<br />
-
-<div align="center">
-  <img width="68%" src="https://streak-stats.demolab.com?user=Shubham56277&amp;theme=tokyonight&amp;hide_border=true" alt="Shubham's total contributions, current streak, and longest streak" />
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shubham56277&amp;theme=tokyonight" alt="Repositories by language" />
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shubham56277&amp;theme=tokyonight" alt="Most-used languages by commits" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham56277&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Shubham's GitHub contribution activity graph" />
+  <img width="52%" src="https://streak-stats.demolab.com?user=Shubham56277&amp;theme=tokyonight&amp;hide_border=true" alt="Shubham's total contributions, current streak, and longest streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham56277&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Shubham's GitHub contribution activity graph" />
 </div>
 
 <!-- GitHub statistics reflect public activity only; private repositories and contributions may not appear. -->
