@@ -112,16 +112,9 @@
 
 ## 🔄 How I Learn & Build
 
-```mermaid
-flowchart LR
-    A[Ideas] --> B[Research]
-    B --> C[AI-assisted Development]
-    C --> D[Prototype]
-    D --> E[Testing]
-    E --> F[Cloud Deployment]
-    F --> G[Improvement]
-    G -.-> A
-```
+<p align="center">
+  <img width="78%" src="./assets/build-cycle.svg" alt="Circular workflow: Ideas, Research, AI-assisted Development, Prototype, Testing, Cloud Deployment, and Improvement" />
+</p>
 
 ## 🎯 Current Focus
 
