@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:312e81,100:7c3aed&amp;height=175&amp;section=header&amp;text=Shubham%20Mankar&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38" alt="Shubham Mankar" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:22C55E,50:15803D,100:14532D&amp;height=175&amp;section=header&amp;text=Muhammad%20Siddique&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38" alt="Muhammad Siddique" />
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@ I build production-grade AI platforms, cloud-native applications, and distribute
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shubham56277"><img src="https://komarev.com/ghpvc/?username=Shubham56277&amp;label=Profile%20views&amp;color=7c3aed&amp;style=flat-square" alt="Profile views" /></a>
-  <a href="https://github.com/Shubham56277?tab=followers"><img src="https://img.shields.io/github/followers/Shubham56277?label=Followers&amp;style=flat-square&amp;color=7c3aed" alt="GitHub followers" /></a>
-  <a href="https://github.com/Shubham56277?tab=stars"><img src="https://img.shields.io/github/stars/Shubham56277?affiliations=OWNER&amp;style=flat-square&amp;color=7c3aed" alt="GitHub stars" /></a>
+  <a href="https://github.com/Mufarhan426"><img src="https://komarev.com/ghpvc/?username=Mufarhan426&amp;label=Profile%20views&amp;color=7c3aed&amp;style=flat-square" alt="Profile views" /></a>
+  <a href="https://github.com/Mufarhan426?tab=followers"><img src="https://img.shields.io/github/followers/Mufarhan426?label=Followers&amp;style=flat-square&amp;color=7c3aed" alt="GitHub followers" /></a>
+  <a href="https://github.com/Mufarhan426?tab=stars"><img src="https://img.shields.io/github/stars/Mufarhan426?affiliations=OWNER&amp;style=flat-square&amp;color=7c3aed" alt="GitHub stars" /></a>
   <a href="https://shubhammankar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/shubham-mankar-a62949381"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 </p>
@@ -136,13 +136,13 @@ My focus is building software that is reliable, maintainable, and capable of ope
 
 | Project | Description | Links |
 | :--- | :--- | :---: |
-| **Sketch2TikZ AI** | Converts sketches, images, PDFs, and natural-language prompts into editable LaTeX TikZ diagrams using IBM watsonx.ai, IBM Granite, FastAPI, and automated validation and repair. | [Repository](https://github.com/Shubham56277/Sketch2TikZ-AI) · [Live Demo](https://sketch2tikz.vercel.app/) |
+| **Sketch2TikZ AI** | Converts sketches, images, PDFs, and natural-language prompts into editable LaTeX TikZ diagrams using IBM watsonx.ai, IBM Granite, FastAPI, and automated validation and repair. | [Repository](https://github.com/Mufarhan426/Sketch2TikZ-AI) · [Live Demo](https://sketch2tikz.vercel.app/) |
 | **Multi-Model AI Chat Platform** | A unified AWS Bedrock interface with model switching, latency statistics, file uploads, retry handling, and developer settings. | In development |
 | **Startup Blueprint Generator** | Uses IBM Granite, RAG, IBM Cloud, and watsonx Orchestrate to create business models, competitor analysis, budgets, funding options, and go-to-market strategies. | In development |
 | **AI Coding Agent** | An experimental assistant for generating, analyzing, repairing, and improving code through agentic workflows. | In development |
 | **Real-Time Voice Intelligence Research** | Experiments with low-latency voice cloning, accent handling, live audio processing, and Discord integration. | Research project |
-| **Linux ATM Management System** | A terminal-based banking simulation built with Linux and foundational systems-programming concepts. | [Repository](https://github.com/Shubham56277/linux-atm-team-project) |
-| **Student Management System** | A beginner-friendly C project for managing student records and basic academic information. | [Repository](https://github.com/Shubham56277/Student-Management-System-C-Language-) |
+| **Linux ATM Management System** | A terminal-based banking simulation built with Linux and foundational systems-programming concepts. | [Repository](https://github.com/Mufarhan426/linux-atm-team-project) |
+| **Student Management System** | A beginner-friendly C project for managing student records and basic academic information. | [Repository](https://github.com/Mufarhan426/Student-Management-System-C-Language-) |
 
 --- -->
 
