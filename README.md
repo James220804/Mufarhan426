@@ -146,11 +146,6 @@ My focus is building software that is reliable, maintainable, and capable of ope
 
 --- -->
 
-## 🔄 How I Learn & Build
-
-<p align="center">
-  <img width="78%" src="./assets/build-cycle.svg" alt="Circular workflow: Ideas, Research, AI-assisted Development, Prototype, Testing, Cloud Deployment, and Improvement" />
-</p>
 
 ## 🎯 Current Focus
 
