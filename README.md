@@ -13,14 +13,6 @@
 I build production-grade AI platforms, cloud-native applications, and distributed systems that transform complex business problems into scalable software.
 </p>
 
-<p align="center">
-  <a href="https://github.com/Mufarhan426"><img src="https://komarev.com/ghpvc/?username=Mufarhan426&amp;label=Profile%20views&amp;color=7c3aed&amp;style=flat-square" alt="Profile views" /></a>
-  <a href="https://github.com/Mufarhan426?tab=followers"><img src="https://img.shields.io/github/followers/Mufarhan426?label=Followers&amp;style=flat-square&amp;color=7c3aed" alt="GitHub followers" /></a>
-  <a href="https://github.com/Mufarhan426?tab=stars"><img src="https://img.shields.io/github/stars/Mufarhan426?affiliations=OWNER&amp;style=flat-square&amp;color=7c3aed" alt="GitHub stars" /></a>
-  <a href="https://shubhammankar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/shubham-mankar-a62949381"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -167,10 +159,9 @@ My focus is building software that is reliable, maintainable, and capable of ope
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+  <!-- <a href=""><img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a> -->
   <a href="https://www.linkedin.com/in/muhammad-siddique-5174421a6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:farhansiddique.mu@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-  <a href=""><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
