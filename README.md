@@ -161,7 +161,7 @@ My focus is building software that is reliable, maintainable, and capable of ope
 <p align="center">
   <!-- <a href=""><img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a> -->
   <a href="https://www.linkedin.com/in/muhammad-siddique-5174421a6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:farhansiddique.mu@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="mailto:mu.siddique426@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
