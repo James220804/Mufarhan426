@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:22C55E,50:15803D,100:14532D&amp;height=175&amp;section=header&amp;text=Muhammad%20Siddique&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38" alt="Muhammad Siddique" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:22C55E,50:15803D,100:14532D&amp;height=175&amp;section=header&amp;text=James%20Sherman&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38" alt="James Sherman" />
 </p>
 
 <p align="center">
@@ -160,8 +160,8 @@ My focus is building software that is reliable, maintainable, and capable of ope
 
 <p align="center">
   <!-- <a href=""><img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a> -->
-  <a href="https://www.linkedin.com/in/muhammad-siddique-5174421a6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mu.siddique426@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
